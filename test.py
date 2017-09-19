@@ -6,7 +6,7 @@ file.close()
 
 text2 = ''
 for ch in text1:
-    if '\u4e00' <= ch <='\u9fff':
+    if '\u4e00' <= ch <= '\u9fff':
         text2 += ch
 tmp = pinyin(text2, style=Style.BOPOMOFO)  # 注音风格
 tmp = np.array(tmp).flatten()
