@@ -1,5 +1,4 @@
-from pypinyin import pinyin, lazy_pinyin, Style
-import numpy as np
+from pypinyin import pinyin, Style
 
 
 def readfile(filename):
@@ -15,7 +14,7 @@ def readfile(filename):
 def main():
     freq = dict()
 
-    for i in range(1, 31):
+    for i in range(1, 11):
         filename = str(i) + '.txt'
         text = readfile(filename)
         results = pinyin(text, style=Style.BOPOMOFO)  # 注音风格
