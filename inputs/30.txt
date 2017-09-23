@@ -1,0 +1,6 @@
+若您有在 8 月 15 日至 9 月 12 日期間於 CCleaner 開發商 Piriform 官網下載這套程式，您可能已受到惡意程式感染，請儘速下載更新 CCleaner 5.34 版本。
+用來清除電腦中的垃圾檔案、使系統跑得更順暢的系統優化工具 CCleaner，常是 Windows 電腦中的必備程式之一，截至 2016 年 11 月為止全球已累積超過 20 億次下載紀錄；它由英國軟體公司 Piriform 所開發，今年 7 月防毒大廠 Avast 收購 Piriform 以擴大市場版圖。
+思科旗下資安研究團隊 Talos 發佈最新報告，發現 Avast 的伺服器已遭數名駭客入侵，並將原始軟體植入惡意元件。
+Piriform 與 Avast 皆已證實這次事件，受影響的包括 Windows 32 位元版本的 CCleaner v5.33.6162 與 CCleaner Cloud v1.07.3191，將從受感染的電腦裡竊取數據資料如電腦名稱、已安裝的程式清單與 Windows 更新、IP 位址等等，並接收駭客的遠端指令以及控制伺服器。
+Piriform 官方表示估計有 3% 使用者、約 227 萬名用戶受到感染，該公司已緊急釋出最新 CCleaner 5.34 版本、修補雲端服務漏洞，並呼籲所有使用者儘速升級到最新版本，讀者也可以前往 Piriform 官網下載。
+CCleanup: A Vast Number of Machines at RiskSecurity Notification for CCleaner v5.33.6162 and CCleaner Cloud v1.07.3191 for 32-bit Windows usersWarning: CCleaner Hacked to Distribute Malware; Over 2.3 Million Users Infected
